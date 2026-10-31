@@ -2,7 +2,7 @@
 
 # its_Secret
 
-### Low-level & Systems Engineer — also ships full-stack web
+### Low-level & Systems Engineer | ships full-stack web too
 
 <img src="https://readme-typing-svg.demolab.com/?lines=parsing+binaries+at+2am;ASM%2C+emulators%2C+native+tooling;also...+React+when+the+rent+is+due;C%2FC%2B%2B+%7C+x86-64+%7C+debuggers;clean+architecture%2C+always&font=Fira%20Code&center=true&width=600&height=40&color=00FF9C&vCenter=true&size=20&pause=1500&background=00000000" alt="typing banner" />
 
@@ -27,8 +27,8 @@
 
 ## What I do
 
-Comfortable below the abstraction line — memory layout, calling conventions, binary formats,
-native interop — and just as comfortable shipping a polished product on top of it. I go from
+Comfortable below the abstraction line: memory layout, calling conventions, binary formats,
+native interop. Just as comfortable shipping a polished product on top of it. I go from
 disassembly to deploy depending on what the problem needs.
 
 ## Systems & Low-Level
@@ -38,7 +38,7 @@ disassembly to deploy depending on what the problem needs.
 <td width="50%" valign="top">
 
 ### [plano](https://github.com/itzSecretProject/plano)
-Native iOS terminal — embeds CPython 3.13 and a `.bat`-style interpreter, plus Git via `libgit2`.
+Native iOS terminal. Embeds CPython 3.13 and a `.bat`-style interpreter, plus Git via `libgit2`.
 Runs real scripts and repo operations on-device, no server round-trip.
 
 `Swift` `CPython embedding` `libgit2` `Native interop`
@@ -47,7 +47,7 @@ Runs real scripts and repo operations on-device, no server round-trip.
 <td width="50%" valign="top">
 
 ### Private R&D
-Ongoing native C++ work on binary internals — structured memory layouts, runtime
+Ongoing native C++ work on binary internals: structured memory layouts, runtime
 instrumentation, and low-level debugging tooling. Kept private while in progress.
 
 `C++` `Memory internals` `Debugger tooling`
@@ -63,7 +63,7 @@ instrumentation, and low-level debugging tooling. Kept private while in progress
 <td width="50%" valign="top">
 
 ### [price-glitch](https://github.com/itzSecretProject/price-glitch)
-Amazon price-error hunter — custom scraper that gets past Akamai's bot wall, scores listings
+Amazon price-error hunter. Custom scraper that gets past Akamai's bot wall, scores listings
 against market value, runs as a 24/7 background sniper.
 
 `TypeScript` `Next.js` `Anti-bot evasion` `Own scraper`
@@ -72,7 +72,7 @@ against market value, runs as a 24/7 background sniper.
 <td width="50%" valign="top">
 
 ### [SmileAtelier](https://github.com/itzSecretProject/SmileAtelier)
-Dental clinic SaaS — online booking, family accounts, admin dashboard with live analytics,
+Dental clinic SaaS. Online booking, family accounts, admin dashboard with live analytics,
 i18n in 4 languages, GDPR compliant.
 
 `React` `Framer Motion` `Tailwind CSS v4`
@@ -83,7 +83,7 @@ i18n in 4 languages, GDPR compliant.
 <td width="50%" valign="top">
 
 ### [Winter-Store](https://github.com/itzSecretProject/Winter-Store)
-Winter outerwear storefront — 3D product scenes with Three.js, GSAP scroll animations,
+Winter outerwear storefront. 3D product scenes with Three.js, GSAP scroll animations,
 working cart, auto language detection.
 
 `React` `Three.js` `GSAP`
@@ -92,7 +92,7 @@ working cart, auto language detection.
 <td width="50%" valign="top">
 
 ### [portfolio](https://github.com/itzSecretProject/portfolio)
-Personal portfolio — interactive WebGL particle background, GSAP scroll reveals,
+Personal portfolio. Interactive WebGL particle background, GSAP scroll reveals,
 multilingual EN / ES / FR / AR with RTL support.
 
 `Vanilla JS` `Three.js` `GSAP`
@@ -103,21 +103,37 @@ multilingual EN / ES / FR / AR with RTL support.
 
 ---
 
+## Stats
+
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=itzSecretProject&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=itzSecretProject&layout=compact&hide_border=true&theme=tokyonight&count_private=true)
+<table>
+<tr>
+<td valign="top" width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=itzSecretProject&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+</td>
+<td valign="top" width="50%">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itzSecretProject&layout=compact&hide_border=true&theme=tokyonight&count_private=true" />
+</td>
+</tr>
+</table>
 
-<br>
+<img width="90%" src="https://streak-stats.demolab.com/?user=itzSecretProject&theme=tokyonight&hide_border=true" />
 
-![Streak stats](https://streak-stats.demolab.com/?user=itzSecretProject&theme=tokyonight&hide_border=true)
+<br><br>
 
-<br>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=itzSecretProject&theme=tokyo-night&hide_border=true&area=true" />
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=itzSecretProject&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8)
+<br><br>
 
-<br>
+<img width="90%" src="https://github-profile-trophy.vercel.app/?username=itzSecretProject&theme=tokyonight&no-frame=true&row=1&column=6&margin-w=8&margin-h=8" />
 
-_Open to freelance projects and collaborations — low-level or web, send a signal._
+</div>
+
+---
+
+<div align="center">
+
+_Open to freelance projects and collaborations, low-level or web. Send a signal._
 
 </div>
